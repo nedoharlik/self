@@ -1,1 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 @import "tailwindcss";
+
+@theme {
+    --nunito: "Nunito", sans-serif;
+
+    --accent-500: oklch(0.6395 0.1521 277.21);
+    --accent-600: oklch(0.5504 0.1521 277.21);
+    --accent-700: oklch(0.4852 0.1521 277.21);
+
+    --drop-shadow-accent: 0 0 1.2px oklch(0.6395 0.1521 277.21);
+    --drop-shadow-dark: 0 0 3.5px oklch(27.4% 0.006 286.033);
+    --drop-shadow-light: 0 0 3.5px oklch(44.2% 0.017 285.786);
+
+    --ease-self: cubic-bezier(.175,.885,.32,1.275);
+}
