@@ -4,6 +4,4 @@
 Source code of my bio web-page, without backend.
 
 ## Showcase
-
-![](https://github.com/nedoharlik/self/showcase.gif)
-
+![showcase.gif](https://github.com/nedoharlik/self/blob/main/showcase.gif)
